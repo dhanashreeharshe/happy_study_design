@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'college_pro/documentation.dart';
-import 'devrnz_design/new_user.dart';
 
 class Nxt_des extends StatefulWidget {
   @override
