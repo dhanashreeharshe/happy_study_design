@@ -1,4 +1,5 @@
 # happy_study_design
-![happy_study_first](https://user-images.githubusercontent.com/65775979/115157433-c9778280-a0a6-11eb-9ff3-b7209b3288dc.jpg)
-![happy_next](https://user-images.githubusercontent.com/65775979/115157439-d72d0800-a0a6-11eb-8e23-b5976becba7e.jpg)
+![happy_study_first(1)](https://user-images.githubusercontent.com/65775979/115193454-d4173380-a109-11eb-8a25-df29e3078c39.jpg)
+![happy_next(1)](https://user-images.githubusercontent.com/65775979/115193553-f315c580-a109-11eb-836f-88676a129a7b.jpg)
+
 
